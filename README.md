@@ -51,3 +51,4 @@ Also make sure the four addresses exist as aliases in your email provider: info@
 ## Editing
 
 All text is plain HTML in the page files. Styles live in `assets/css/site.css`. The 3D scenes are in `assets/js/scene3d.js` (built with three.js r128, MIT licence, included in `assets/js`). The marble hero is `assets/js/marble.js`.
+
